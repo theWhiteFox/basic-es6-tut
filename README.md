@@ -3,7 +3,8 @@ http://ccoenraets.github.io/es6-tutorial
 
 - Babel
 
-http://kangax.github.io/compat-table/es6/
+[http://ccoenraets.github.io/es6-tutorial/](es6 tutorial)
 
+[http://kangax.github.io/compat-table/es6/](es6 compatibity)
 
-git clone https://github.com/ccoenraets/es6-tutorial
+[https://github.com/ccoenraets/es6-tutorial](git clone)
