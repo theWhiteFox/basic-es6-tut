@@ -4,7 +4,6 @@
   "description": "es6 tut",
   "main": "index.js",
   "scripts": {
-    "test": "test",
     "babel": "babel --presets es2015 js/main.js -o build/main.bundle.js",
     "start": "http-server -p 9000"
   },
